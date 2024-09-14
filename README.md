@@ -13,7 +13,7 @@ A simple console-based bank management system written in C++. This project allow
 📊 _**How to use:**_
 
 1. Compile and run the program.
-2. If you don't have an account, choose to create one.
+2. If you don't have an account, it will create one automatically and ask user information.
 3. Login to your account.
 4. Choose from the menu options to perform transactions.
 
