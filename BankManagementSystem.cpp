@@ -39,7 +39,7 @@ public:
     // Withdraw Money
     void withdraw(double bal){
         if(bal > this->balance){
-            cout<<"Abe Bhikari Itna Paisa Tera Baap Chhod Kar Gaya Tha Ya Teri Maa....... \nAhem I Mean Insufficient Balance!"<<endl;
+            cout<<"Insufficient Balance!"<<endl;
             return;
         }
         this->balance = this->balance - bal;
@@ -209,7 +209,7 @@ int main() {
                 break;
 
             default:
-                cout<<"\nInvalid Option.\nAndha Hai Kya? Options Theek Se Enter Na Kari Ja Rahi Terese."<<endl;
+                cout<<"\nInvalid Option!"<<endl;
                 break;
             }
 
