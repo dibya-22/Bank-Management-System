@@ -1,4 +1,4 @@
-🏦 **Bank Management System**
+# 🏦 **Bank Management System**
 
 A simple console-based bank management system written in C++. This project allows users to create an account, login, deposit money, withdraw money, check balance, and display account information.
 
